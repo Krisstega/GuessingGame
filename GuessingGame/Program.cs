@@ -41,6 +41,7 @@ namespace GuessingGame
                 }
 
             }
+            Console.ReadLine();
 
         }
     }
